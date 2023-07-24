@@ -1,4 +1,4 @@
-**Quadratic Equation**
+# Quadratic Equation
 
 https://www.testdome.com/questions/php/quadratic-equation/92102
 
