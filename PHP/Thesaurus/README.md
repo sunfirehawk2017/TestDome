@@ -1,4 +1,4 @@
-**Thesaurus**
+# Thesaurus
 
 https://www.testdome.com/questions/php/thesaurus/92095
 
