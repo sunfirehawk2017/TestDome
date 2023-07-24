@@ -1,5 +1,7 @@
 **Thesaurus**
 
+https://www.testdome.com/questions/php/thesaurus/92095
+
 A _thesaurus_ contains words and synonyms for each word. Below is an example of a data structure that defines a thesaurus:
 
 * array("buy" => array("purchase"), "big" => array("great", "large"))
