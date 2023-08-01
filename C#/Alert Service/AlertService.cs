@@ -3,7 +3,7 @@ using System;
 
 public class AlertService	
 {
-    private IAlertDAO storage;
+    private readonly IAlertDAO storage;
   
     public AlertService(IAlertDAO iAlertDAO)
     {
